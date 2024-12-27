@@ -33,7 +33,7 @@ This project demonstrates how to manage local user accounts on a Windows 10 syst
   <li>(Optional) Uncheck <strong>User must change password at next logon</strong>.</li>
   <li>Click <strong>Create</strong>.</li>
 </ol>
-<img src="Screenshots/Add_User.png" alt="Add User Step" />
+<img src="Add_User.png" alt="Add User Step" />
 
 <h3>Modifying a User</h3>
 <ol>
@@ -48,7 +48,7 @@ This project demonstrates how to manage local user accounts on a Windows 10 syst
   </li>
   <li>Click <strong>OK</strong> to save your changes.</li>
 </ol>
-<img src="Screenshots/Edit_User.png" alt="Edit User Step" />
+<img src="Edit_User.png" alt="Edit User Step" />
 
 <h3>Deleting a User</h3>
 <ol>
@@ -56,7 +56,7 @@ This project demonstrates how to manage local user accounts on a Windows 10 syst
   <li>Right-click the user and select <strong>Delete</strong>.</li>
   <li>Confirm the action when prompted.</li>
 </ol>
-<img src="Screenshots/Delete_User.png" alt="Delete User Step" />
+<img src="Delete_User.png" alt="Delete User Step" />
 
 <h3>Using Command Prompt</h3>
 <ol>
@@ -75,7 +75,7 @@ This project demonstrates how to manage local user accounts on a Windows 10 syst
     </ul>
   </li>
 </ol>
-<img src="Screenshots/Command_Prompt_User_Management.png" alt="Command Prompt User Management" />
+<img src="Command_Prompt_User_Management.png" alt="Command Prompt User Management" />
 
 <h2>Conclusion</h2>
 <p>
