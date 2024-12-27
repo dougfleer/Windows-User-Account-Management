@@ -33,7 +33,7 @@ This project demonstrates how to manage local user accounts on a Windows 10 syst
   <li>(Optional) Uncheck <strong>User must change password at next logon</strong>.</li>
   <li>Click <strong>Create</strong>.</li>
 </ol>
-<img src="https://raw.githubusercontent.com/dougfleer/Windows-User-Account-Management/refs/heads/main/New_user.png" alt="Add User Step" height="300px" align="center"/>
+<img src="https://raw.githubusercontent.com/dougfleer/Windows-User-Account-Management/refs/heads/main/New_user.png" alt="Add User Step" width="300px" align="center"/>
 
 <h3>Modifying a User</h3>
 <ol>
@@ -48,7 +48,7 @@ This project demonstrates how to manage local user accounts on a Windows 10 syst
   </li>
   <li>Click <strong>OK</strong> to save your changes.</li>
 </ol>
-<img src="https://raw.githubusercontent.com/dougfleer/Windows-User-Account-Management/refs/heads/main/Edit_User.png" alt="Edit User Step" height="300px" align="center"/>
+<img src="https://raw.githubusercontent.com/dougfleer/Windows-User-Account-Management/refs/heads/main/Edit_User.png" alt="Edit User Step" width="300px" align="center"/>
 
 <h3>Deleting a User</h3>
 <ol>
@@ -56,7 +56,7 @@ This project demonstrates how to manage local user accounts on a Windows 10 syst
   <li>Right-click the user and select <strong>Delete</strong>.</li>
   <li>Confirm the action when prompted.</li>
 </ol>
-<img src="https://raw.githubusercontent.com/dougfleer/Windows-User-Account-Management/refs/heads/main/Delete_User.png" alt="Delete User Step" height="300px" align="center"/>
+<img src="https://raw.githubusercontent.com/dougfleer/Windows-User-Account-Management/refs/heads/main/Delete_User.png" alt="Delete User Step" width="300px" align="center"/>
 
 <h3>Using Command Prompt</h3>
 <ol>
@@ -75,7 +75,7 @@ This project demonstrates how to manage local user accounts on a Windows 10 syst
     </ul>
   </li>
 </ol>
-<img src="https://raw.githubusercontent.com/dougfleer/Windows-User-Account-Management/refs/heads/main/Command_Prompt_User_Management.png" alt="Command Prompt User Management" height="300px" align="center"/>
+<img src="https://raw.githubusercontent.com/dougfleer/Windows-User-Account-Management/refs/heads/main/Command_Prompt_User_Management.png" alt="Command Prompt User Management" width="300px" align="center"/>
 
 <h2>Conclusion</h2>
 <p>
