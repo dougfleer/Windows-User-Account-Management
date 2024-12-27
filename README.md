@@ -1,6 +1,6 @@
 <h1>Windows User Account Management Walkthrough</h1>
 <br />
-<center><img src="https://pentagram-production.imgix.net/ea053844-c063-4130-9425-4a193f82e1e3/ps_windows_01.jpg?rect=67%2C364%2C1665%2C1040&w=1500&fit=crop&fm=jpg&q=70&auto=format&h=935" height="120px"></img></center>
+<center><img src="https://pentagram-production.imgix.net/ea053844-c063-4130-9425-4a193f82e1e3/ps_windows_01.jpg?rect=67%2C364%2C1665%2C1040&w=1500&fit=crop&fm=jpg&q=70&auto=format&h=935" height="250px"></img></center>
 <br />
 <h2>Summary</h2>
 <p>
